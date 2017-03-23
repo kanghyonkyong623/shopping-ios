@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "889433A51E1F9E3900126293"
-               BuildableName = "WebViewDemo.app"
-               BlueprintName = "WebViewDemo"
-               ReferencedContainer = "container:WebViewDemo.xcodeproj">
+               BuildableName = "shopping.app"
+               BlueprintName = "shopping"
+               ReferencedContainer = "container:shopping.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "889433A51E1F9E3900126293"
-            BuildableName = "WebViewDemo.app"
-            BlueprintName = "WebViewDemo"
-            ReferencedContainer = "container:WebViewDemo.xcodeproj">
+            BuildableName = "shopping.app"
+            BlueprintName = "shopping"
+            ReferencedContainer = "container:shopping.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "889433A51E1F9E3900126293"
-            BuildableName = "WebViewDemo.app"
-            BlueprintName = "WebViewDemo"
-            ReferencedContainer = "container:WebViewDemo.xcodeproj">
+            BuildableName = "shopping.app"
+            BlueprintName = "shopping"
+            ReferencedContainer = "container:shopping.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "889433A51E1F9E3900126293"
-            BuildableName = "WebViewDemo.app"
-            BlueprintName = "WebViewDemo"
-            ReferencedContainer = "container:WebViewDemo.xcodeproj">
+            BuildableName = "shopping.app"
+            BlueprintName = "shopping"
+            ReferencedContainer = "container:shopping.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
